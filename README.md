@@ -1,0 +1,5 @@
+# ExpandableListViewDemo
+
+可扩展的ListView实现
+
+从web上获取JSON数据，并解析，展示到ExpandableListView中，并且将数据存储到SQLite数据库中
